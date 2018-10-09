@@ -1,5 +1,5 @@
 /*********************************************************************************************************
-											C R E D I T S
+					C R E D I T S
 
 This application uses DISLIN v11.1 plotting library. The DISLIN software is free for non-commercial use.
 You can find more information about the project below.
